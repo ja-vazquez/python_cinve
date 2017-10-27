@@ -1,1 +1,2 @@
-# python_cinve
+# Notas del Curso de python
+
