@@ -1,5 +1,13 @@
 # Notas del Curso de python
 
+----
+---
+
+[Ejercicios](https://github.com/ja-vazquez/python_cinves/tree/master/Ejercicios)
+
+---
+---
+
 
 
 
