@@ -5,9 +5,12 @@
 
 ### Clase 1
 
-[Notebook](https://nbviewer.jupyter.org/github/ja-vazquez/Python_compendium/blob/master/Python/iPython.ipynb)
-
 [Diapositivas](https://github.com/ja-vazquez/python_cinves/blob/master/python%20course.pdf)
+Editores de texto, pip, librerias.
+
+[Notebook](https://nbviewer.jupyter.org/github/ja-vazquez/Python_compendium/blob/master/Python/iPython.ipynb)
+Magic commands y lo basico para usar jupyter notebook.
+
 
 
 ### Clase 2
