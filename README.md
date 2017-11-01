@@ -6,8 +6,10 @@
 [Ejercicios](https://github.com/ja-vazquez/python_cinves/tree/master/Ejercicios)
 
 
-		[Numeric](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Numeric.ipynb)
-		[Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
+1. [Numeric](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Numeric.ipynb)
+		
+2. [Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
+
 		
 ---
 ---
