@@ -6,7 +6,9 @@
 [Ejercicios](https://github.com/ja-vazquez/python_cinves/tree/master/Ejercicios)
 
 
-		[Notas basico]()
+		[Numeric](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Numeric.ipynb)
+		[Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
+		
 ---
 ---
 
@@ -32,6 +34,6 @@ Magic commands y lo basico para usar jupyter notebook.
 
 ### Clase 3
 
-[Buscando Raices -- Lescamilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Raices_Lescamilla.ipynb)
+[Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Raices_Lescamilla.ipynb)
 
 [Interpolacion -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Interpolacion_Nmontiel.ipynb)
