@@ -5,6 +5,8 @@
 
 [Ejercicios](https://github.com/ja-vazquez/python_cinves/tree/master/Ejercicios)
 
+
+		[Notas basico]()
 ---
 ---
 
@@ -22,7 +24,7 @@ Magic commands y lo basico para usar jupyter notebook.
 
 
 ### Clase 2
-	Se borraron las notas
+
 
 [Graficas con Matplotlib -- Otellez](http://nbviewer.jupyter.org/github/losvaldote/Programas-Python/blob/master/Untitled2.ipynb)
 
