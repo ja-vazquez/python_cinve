@@ -32,9 +32,9 @@ Magic commands y lo basico para usar jupyter notebook.
 
 [Newton-Rhapson -- Lescamilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Newton-Rhapson_LEscamilla.ipynb)
 
-[Cholensky -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/DESCOMPOSICION+DE+CHOLENSKY.ipynb)
+[Cholensky -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/DESCOMPOSICION_DE_CHOLENSKY.ipynb)
 
-[Ecuaciones Diff -- Jrincon](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Ecuaciones+diferenciales.py)
+[Ecuaciones Diff -- Jrincon](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Ecuaciones_diferenciales.py)
 
 [Ecuaciones Diff 2 -- Jrincon](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/IntegralPy_Jazhiel.ipynb)
 
