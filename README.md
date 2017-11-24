@@ -6,34 +6,36 @@
 [Ejercicios](https://github.com/ja-vazquez/python_cinves/tree/master/Ejercicios)
 
 
-1. [Numeric](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Numeric.ipynb)
-		
-2. [Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
-
-
 [Diapositivas](https://github.com/ja-vazquez/python_cinves/blob/master/python%20course.pdf)
 Editores de texto, pip, librerias.
 
 [Notebook](https://nbviewer.jupyter.org/github/ja-vazquez/Python_compendium/blob/master/Python/iPython.ipynb)
 Magic commands y lo basico para usar jupyter notebook.
 
+1. [Numeric](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Numeric.ipynb)
+
+2. [Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
 
 
-### Temas 1
+### Temas 
 
 
 [Graficas con Matplotlib -- Otellez](http://nbviewer.jupyter.org/github/losvaldote/Programas-Python/blob/master/Untitled2.ipynb)
 
 [Matrices -- Adeyta](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Matrices_Adeyta.ipynb)
 
-### Temas 2
+[Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Raices_Lescamilla.ipynb)
 
-[Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Raices_Lescamilla.ipynb)
+[Interpolacion -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Interpolacion_Nmontiel.ipynb)
 
-[Interpolacion -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Interpolacion_Nmontiel.ipynb)
+[Complejos -- Jordi](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Complejos_Jordi.ipynb)
 
-### Temas 3
+[Newton-Rhapson -- Lescamilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Newton-Rhapson_LEscamilla.ipynb)
 
-[Complejos -- Jordi](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Complejos_Jordi.ipynb)
+[Cholensky -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/DESCOMPOSICION+DE+CHOLENSKY.ipynb)
 
-[Newton-Rhapson -- Lescamilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Newton-Rhapson_LEscamilla.ipynb)
+[Ecuaciones Diff -- Jrincon](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Ecuaciones+diferenciales.py)
+
+[Ecuaciones Diff 2 -- Jrincon](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/IntegralPy_Jazhiel.ipynb)
+
+[Jordan Matrix -- LPadilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/JordanMatrix_LPadilla.ipynb)
