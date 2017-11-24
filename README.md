@@ -10,14 +10,6 @@
 		
 2. [Strings](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Strings.ipynb)
 
-		
----
----
-
-
-
-
-### Clase 1
 
 [Diapositivas](https://github.com/ja-vazquez/python_cinves/blob/master/python%20course.pdf)
 Editores de texto, pip, librerias.
@@ -27,20 +19,20 @@ Magic commands y lo basico para usar jupyter notebook.
 
 
 
-### Clase 2
+### Temas 1
 
 
 [Graficas con Matplotlib -- Otellez](http://nbviewer.jupyter.org/github/losvaldote/Programas-Python/blob/master/Untitled2.ipynb)
 
-[Matrices -- Adeyta](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Matrices_Adeyta.ipynb)
+[Matrices -- Adeyta](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Matrices_Adeyta.ipynb)
 
-### Clase 3
+### Temas 2
 
 [Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Raices_Lescamilla.ipynb)
 
 [Interpolacion -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Interpolacion_Nmontiel.ipynb)
 
-### Clase 4
+### Temas 3
 
 [Complejos -- Jordi](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Complejos_Jordi.ipynb)
 
