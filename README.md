@@ -39,3 +39,9 @@ Magic commands y lo basico para usar jupyter notebook.
 [Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Raices_Lescamilla.ipynb)
 
 [Interpolacion -- Nmontiel](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Interpolacion_Nmontiel.ipynb)
+
+### Clase 4
+
+[Complejos -- Jordi](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Complejos_Jordi.ipynb)
+
+[Newton-Rhapson -- Lescamilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Newton-Rhapson_LEscamilla.ipynb)
