@@ -22,7 +22,7 @@ Magic commands y lo basico para usar jupyter notebook.
 
 [Graficas con Matplotlib -- Otellez](http://nbviewer.jupyter.org/github/losvaldote/Programas-Python/blob/master/Untitled2.ipynb)
 
-[Matrices -- Adeyta](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Matrices_Adeyta.ipynb)
+[Matrices -- Adeyta](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Matrices_Adeyta.ipynb)
 
 [Buscando Raices -- Lescamilla](https://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Raices_Lescamilla.ipynb)
 
