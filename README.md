@@ -46,7 +46,6 @@ Magic commands y lo basico para usar jupyter notebook.
 
 [Difusion -- Adeyta](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/diffusion-eq-1d.ipynb)
 
-
 [MCMC -- LPadilla](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/Padilla_MCMC2.ipynb)
 
 [Taylor -- DTamayo](http://nbviewer.jupyter.org/github/ja-vazquez/python_cinves/blob/master/Temas/DTamayo_serie_Taylor.ipynb)
